@@ -4,7 +4,6 @@ export const dashboardStyle: CSSProperties = {
     padding: "20px",
     fontFamily: "Arial, sans-serif",
     backgroundColor: "#f4f4f9",
-    minHeight: "100vh",
 }
 
 export const titleStyle: CSSProperties = {
