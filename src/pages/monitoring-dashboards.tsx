@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from "react"
-import { alertStyle, cardStyle, cardTitleStyle, dashboardStyle, gridStyle, noAlertStyle, progressStyle, titleStyle } from "./styles"
+import { alertStyle, cardStyle, cardTitleStyle, dashboardStyle, gridStyle, noAlertStyle, progressStyle, titleStyle } from "./monitoring-dashboards-styles"
 
 /**
  * Protótipo de Website de Monitorização
